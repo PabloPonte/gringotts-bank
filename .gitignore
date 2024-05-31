@@ -1,0 +1,8 @@
+## svg files
+*.svg
+
+## vscode iles
+.vscode
+
+## metrics 
+.metrics
