@@ -28,11 +28,16 @@ You can download or fork this repository and work directly here, although it's r
 
 This project is **intended as an exercise**. It can contain errors, lack of definitions, misconceptions, and inconsistencies. This is done this way by design to test and teach a team how to deal with these kinds of situations.
 
-This proyect was designed to train a full development team, including Software Engineers and Quality Engineers. It contains specific definitions to challenge the team in the technical implementation, solution design, infraestructure and deployment, quality assurance, and team and proyect mangament, it requires a person that fullfills the role of Product Owner or final client (let's assume the bank's owner), that fills the intented gaps of definitions and takes some management tasks.
+This proyect was designed to train a full development team, including Software Engineers and Quality Engineers. It contains specific definitions to challenge the team in the technical implementation, solution design, infraestructure and deployment, quality assurance, and team and proyect management, it requires a person that fullfills the role of Product Owner or final client (let's assume the bank's owner), that fills the intented gaps of definitions and takes some management tasks.
 
 You can use it in a way that fills your needs, ignoring some specific requirements or going deeper in some topics. For example you can decide to do only the database and backend, ignore the testing and quality requirements, do a more complex documentation, or skip the deployment and run the entire solution locally.
 
-The proyect was used for the first time on a coding bootcamp, with a team of trainees/junior developers and testers with a full dedication commitment (8 daily hours), and resolved in about 10 weeks.
+The proyect was used for the first time on a coding bootcamp, with a team of trainees/junior developers and testers with a full dedication commitment (8 daily hours), and resolved the first 6 epics in about 10 weeks.
+
+There is a spanish version of this project:
+
+https://github.com/PabloPonte/gringotts-bank-es
+
 
 ## General Epic and User Stories Index
 * [GEP-01 Release Zero](/DOC/GEP-01-Release-Zero/GEP-01-Release-Zero.md)
