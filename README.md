@@ -34,11 +34,6 @@ You can use it in a way that fills your needs, ignoring some specific requiremen
 
 The proyect was used for the first time on a coding bootcamp, with a team of trainees/junior developers and testers with a full dedication commitment (8 daily hours), and resolved the first 6 epics in about 10 weeks.
 
-There is a spanish version of this project:
-
-https://github.com/PabloPonte/gringotts-bank-es
-
-
 ## General Epic and User Stories Index
 * [GEP-01 Release Zero](/DOC/GEP-01-Release-Zero/GEP-01-Release-Zero.md)
     * [GUS-01 Architectural Design](/DOC/GEP-01-Release-Zero/GUS-01-Architectural-Design.md)
