@@ -1,4 +1,4 @@
-# Gringotts - Template Project - v0.6.0
+# Gringotts - Template Project - v0.7.0
 
 _A simple bank application project template_
 

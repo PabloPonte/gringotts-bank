@@ -1,5 +1,17 @@
 # CHANGELOG Gringotts - Template Project
 
+
+## VERSION 0.7.0
+_Dark Pacts_
+<hr>
+
+### Dark Pacts Epic
+* Added the epic definition (new)
+* Added the XXX User Story (new)
+
+<hr>
+
+
 ## VERSION 0.6.0
 _Mystical Insights_
 <hr>
@@ -13,7 +25,6 @@ _Mystical Insights_
 * Mystical Insights and Dark Pacts epics swiched places on the release plan (update)
 
 <hr>
-
 
 ## VERSION 0.5.0
 _Arcane Transmissions_

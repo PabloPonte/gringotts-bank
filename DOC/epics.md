@@ -10,7 +10,7 @@ This is the Epics list with their target versions. Each Epic are describied in d
 |[GEP-04](GEP-04-Accounts/GEP-04-Accounts.md)|Accounts|Mages Accounts Management|<ul><li>Account Balance</li><li>Account Transactions History</li><li>Operation: Magical Placement</li><li>Operation: Magical Retrieval</li></ul>|1.0.0|
 |[GEP-05](GEP-05-Arcane-Transmissions/GEP-05-Arcane-Transmissions.md)|Arcane Transmissions|Transfers Between Accounts|<ul><li>Operation: Arcane Transmission</li></ul>|1.1.0|
 |[GEP-06](GEP-06-Mystical-Insights/GEP-06-Mystical-Insights.md)|Mystical Insights|Different business metrics|<ul><li>Overseer Dashboard</li><li>Account Balance History Graph</li></ul>|1.2.0|
-|GEP-07|Loans|Description|Expected Features|1.3.0|
+|[GEP-07](GEP-07-Dark-Pacts/GEP-07-Dark-Pacts.md)|Dark Pacts|Loans for Mages|<ul><li>Dark Pacts Parameters Configuration</li><li>Operation: Dark Pact Request</li><li>Operations: Dark Pacts Approvals and Rejections</li><li>Operations: Dark Pacts Instalments Payment</li><li>Dark Pacts Mystical Insights</li></ul>|1.3.0|
 |GEP-08|Exchange|Description|Expected Features|1.4.0|
 |GEP-09|Taxes|Description|Expected Features|1.5.0|
 
