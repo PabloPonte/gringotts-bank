@@ -15,15 +15,17 @@ The following features are expected:
 ## User Stories
 |US Code|US Name|Description|
 |:--:|--|--|
-|[GUS-22](GUS-22-Dark-Pact-Parameters.md)|Dark Pacts Parameters Configuration|A dashboard with serveral metrics|
-|[GUS-23](GUS-23-Dark-Pact-Request.md)|Operation: Dark Pact Request|A dashboard with serveral metrics|
-|[GUS-24](GUS-24-Dark-Pact-Approval-Rejection.md)|Operation: Dark Pacts Approvals and Rejections|A dashboard with serveral metrics|
-|[GUS-25](GUS-25-Dark-Pact-Instalment-Payment.md)|Operation: Dark Pacts Instalments Payment|A dashboard with serveral metrics|
-|[GUS-26](GUS-26-Dark-Pact-Mystical-Insights.md)|Dark Pacts Mystical Insights|A dashboard with serveral metrics|
+|[GUS-22](GUS-22-Dark-Pact-Parameters.md)|Dark Pacts Parameters Configuration|Loans Parameters Configurations|
+|[GUS-23](GUS-23-Dark-Pact-Request.md)|Operation: Dark Pact Request|XXX|
+|[GUS-24](GUS-24-Dark-Pact-Approval-Rejection.md)|Operation: Dark Pacts Approvals and Rejections|XXX|
+|[GUS-25](GUS-25-Dark-Pact-Instalment-Payment.md)|Operation: Dark Pacts Instalments Payment|XXX|
+|[GUS-26](GUS-26-Dark-Pact-Mystical-Insights.md)|Dark Pacts Mystical Insights|XXX|
 
 ## Dependencies
 
 Due to components dependencies, the [Accounts Epic](../GEP-04-Accounts/GEP-04-Accounts.md) must be completed to implement this epic.
+
+-- ##
 
 ## Acceptance Criteria
 * As an authenticated Overseer user, I have access to the Metrics Dashboard.

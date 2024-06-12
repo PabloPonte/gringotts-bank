@@ -62,3 +62,5 @@ The proyect was used for the first time on a coding bootcamp, with a team of tra
 * [GEP-06 Mystical Insights](/DOC/GEP-06-Mystical-Insights/GEP-06-Mystical-Insights.md)
     * [GUS-20 Overseer Dashboard](/DOC/GEP-06-Mystical-Insights/GUS-20-Overseer-Dashboard.md)
     * [GUS-21 Account Balance Histogram](/DOC/GEP-06-Mystical-Insights/GUS-21-Account-Balance-Histogram.md)
+* [GEP-07 Dark Pacts](/DOC/GEP-07-Dark-Pacts/GEP-07-Dark-Pacts.md)
+    * [GUS-22 Dark Pacts Parameters Configuration](/DOC/GEP-07-Dark-Pacts/GUS-22-Dark-Pact-Parameters.md)
