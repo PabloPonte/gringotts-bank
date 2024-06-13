@@ -16,7 +16,7 @@ The following features are expected:
 |US Code|US Name|Description|
 |:--:|--|--|
 |[GUS-22](GUS-22-Dark-Pact-Parameters.md)|Dark Pacts Parameters Configuration|Loans Parameters Configurations|
-|[GUS-23](GUS-23-Dark-Pact-Request.md)|Operation: Dark Pact Request|XXX|
+|[GUS-23](GUS-23-Dark-Pact-Request.md)|Operation: Dark Pact Request|Loan Simulation and Request|
 |[GUS-24](GUS-24-Dark-Pact-Approval-Rejection.md)|Operation: Dark Pacts Approvals and Rejections|XXX|
 |[GUS-25](GUS-25-Dark-Pact-Instalment-Payment.md)|Operation: Dark Pacts Instalments Payment|XXX|
 |[GUS-26](GUS-26-Dark-Pact-Mystical-Insights.md)|Dark Pacts Mystical Insights|XXX|

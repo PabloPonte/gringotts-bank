@@ -11,9 +11,9 @@ A Dark Pact is a Loan from the bank to a Mage. A Loan have a "Loan Type", this i
 Each Loan Type has the following parameters:
 * **Type Name**: A name to identify the loan type.
 * **Minimum and Maximun Instalments**: Range of instalments quantity.
-* **Minimum and Maximum Loan Amount**: Range of amount to loan.
+* **Minimum and Maximum Loan Amount**: Range of the amount to loan.
 * **APR**: stands for Annual Percentage Rate, is the interest percentage that applies per year.
-* **Origination Fee**: is tha amount to be charged on the loan approval, usually added to the first instalment. Can be expresed as a fixed value or a percentage of the total loan amount. 
+* **Origination Fee**: is the amount to be charged on the loan approval, usually added to the first instalment. Can be expresed as a fixed value or a percentage of the total loan amount. 
 * **Age Restriction**: Range of Mage age, to qualify for this type of loan. This values are expresed in years.
 * **Minimum Mage Tenerue**: Time since the Mage has been a client, expresed in months.
 * **House Restriction**: Indicates if the loan type is only avaliable for mages that belongs to a certain house.
@@ -33,7 +33,7 @@ The bank currently have the following loan types:
 
 |Name|Min Instal|Max Instal|Min Amount|Max Amount|APR|Orig Fee|Min Age|Max Age|Min Tenerue|House|
 |--|--:|--:|--:|--:|--:|--:|--:|--:|--:|--|
-|Muugle Pact|3|12|sk$5,000|Sk$75,000|45.00%|sk$5,000|0|50|6||
+|Muggle Pact|3|12|sk$5,000|Sk$75,000|45.00%|sk$5,000|0|50|6||
 |Regular Mage Pact|6|60|sk$50,000|Sk$500,000|35.00%|3.50%|0|99|3||
 |Old Clients Pact|6|120|sk$50,000|Sk$1,000,000|30.00%|3.00%|35|200|72||
 |Ravenclaw Express Pact|1|6|sk$5,000|Sk$30,000|40.00%|SK$0|0|99|0|Ravenclaw|
