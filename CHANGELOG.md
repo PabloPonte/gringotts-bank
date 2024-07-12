@@ -8,6 +8,7 @@ _Dark Pacts_
 ### Dark Pacts Epic
 * Added the epic definition (new)
 * Added the Dark Pacts Parameters Configuration User Story (new)
+* Added the Dark Pacts Request User Story (new)
 
 <hr>
 
