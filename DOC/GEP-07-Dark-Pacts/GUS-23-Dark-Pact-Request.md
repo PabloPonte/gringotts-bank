@@ -23,9 +23,9 @@ A section titled "Loan Request" must show a form with the following inputs:
 * Request Date
 * A "Simulate" button that will run the loan simulation.
 
-A section titled "Loan Details" must show a summary subsection indicating the instalments quantity, total amount to pay, and the first and last instalment due dates. A second subsection with a table containing the following information for each instalment: instalment number, due date, principal amount, interest amount, and other charges.
+The Simulation must fill a section titled "Loan Details" that must show a summary subsection indicating the instalments quantity, total amount to pay, and the first and last instalment due dates. A second subsection with a table containing the following information for each instalment: instalment number, due date, principal amount, interest amount, and other charges. Totals for each instalment and for each concept must be also shown. This table must be paginated in groups of 12 instalments if needed.
 
-At the end of the details section, a "Request" button must perform the formal request of the loan. A "Cancel" button must redirect to the main page.
+At the end of the details section, a "Request" button must perform the formal request of the loan, and a "Cancel" button must redirect to the main page.
 
 All the limitations defined on the loan type must be validaded on the simulation and the request.
 
@@ -51,44 +51,46 @@ For example, a loan of Sk$100,000 with a 45.00% APR and 18 instalments has a tot
 
 Upon pressing the "Request" button, a confirmation dialog must be displayed, if confirmed the loan must be saved in a "Pending" state.
 
----
----
-##
-
 ## Page Design
 
-There is no specific mockup for this page. Use the same criteria from existing pages.
+There is a general mockup of the page:
+
+<figure align="center">
+<img src="../assets/DarkPactsRequest.png" alt="Dark Pact Request" title="Dark Pact Request" width="800"> 
+<figcaption>Dark Pact Request</figcaption>
+</figure>
 
 ## Validations
-* The Loan Type Name must be unique.
-* All the numerical parameters are mandatory and must be postive values or zero.
-* The max values for a range must be igual or greater than the min value of that range.
-* The house restriction parameter is optional and represents only one existing.
-* The loan types cannot be deleted, only deactivated.
+* The selected Mage must fulfill the loan type requirements.
+* The requested amount must be between the loan type parameters.
+* The requested number of instalments must be between the loan type parameters.
 
 ## Dependencies
-None besides those defined on the Epic.
+
+* The loan types are defined on the [Dark Pact Parameters](GUS-22-Dark-Pact-Parameters.md) user story.
 
 ## Navigation and Security
+
 In the navigation section this feature access must be on the following route:
 
-**Configuration -> Dark Pacts Parameters**
+**Operations -> Dark Pact Request**
 
-This feature must be only accessible for users with the Overseer Role.
+This feature must accessible for users with the Overseer Role or the Minion Role.
 
 ## Acceptance Criteria
-* As an Overseer user, I have access to this page from the navigation bar.
-* As an Overseer user, I can list all the existing loan types.
-* As an Overseer user, I can create a new loan type.
-* As an Overseer user, I can modify an existing loan type.
+* As an Overseer or Minion user, I have access to this page from the navigation bar.
+* As an Overseer or Minion user, I can search a Mage and list all the existing loan types.
+* As an Overseer or Minion user, I can set the loan amount, instalments and request date fro a new loan simulation.
+* As an Overseer or Minion user, I can see the simulated loan details and composition.
+* As an Overseer or Minion user, I can request the simulated loan or cancel the operation.
 * All the defined validations are implemented.
 
 Additionally remember that all user stories must also comply the [General Acceptance Criteria](../generalAcceptanceCriteria.md)
 
 ## Definition of Done
 The following conditions must be met to consider this user story as done:
-* The Dark Pacts Configuration page is deployed in all layers.
-* The Loan Types defined on this User Story are correctly configurated.
+* The Dark Pacts Request page is deployed in all layers.
+* The Dark Pacts simulations are consistent with all the given definitions and formulas.
 * All the validations are properly implemented.
 
 ---

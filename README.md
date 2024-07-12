@@ -1,6 +1,6 @@
 # Gringotts - Template Project - v0.7.0
 
-_A simple bank application project template_
+_A simple bank application project template_ 
 
 Gringotts is a Template Project that contains all business and functional definitions needed to develop a full application. It contains no technical definitions nor restrictions, but a few requisites. You can use any technology and language that you like.
 

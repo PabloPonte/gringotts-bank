@@ -67,7 +67,7 @@ The 'edit' icon in the result table must be changed to a 'view details' icon, li
 
 ## Dependencies
 
-* The account definitions and structures  are defined and implemented on the [Account Balance](GUS-16-Account-Balance.md) user story.
+* The account definitions and structures are defined and implemented on the [Account Balance](GUS-16-Account-Balance.md) user story.
 
 ## Navigation and Security
 In the navigation section this feature access must be on the following route:
