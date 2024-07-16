@@ -58,12 +58,10 @@ There must be a feature to download the results (with the applied filters) as a 
 ### Mages List modification
 The 'edit' icon in the result table must be changed to a 'view details' icon, linking to this page instead of the modify mage page. This new icon must be visible for both Minion and Overseer roles.
 
-
 <figure align="center">
 <img src="../assets/MageListWithDetailIcon.jpg" alt="Mages List" title="Mages List" width="800"> 
 <figcaption>Mages List</figcaption>
 </figure>
-
 
 ## Dependencies
 

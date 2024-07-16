@@ -14,6 +14,7 @@ There are many pages in Gringotts, with different funtionalities and not all are
   * [Magical Placements and Retrievals](/DOC/GEP-04-Accounts/GUS-18-Account-Operations.md)
   * [Arcane Transmissions](/DOC/GEP-05-Arcane-Transmissions/GUS-19-Operation-Arcane-Transmissions.md)
   * [Dark Pact Request](/DOC/GEP-07-Dark-Pacts/GUS-23-Dark-Pact-Request.md)
+  * [Dark Pacts Approvals and Rejections](/DOC/GEP-07-Dark-Pacts/GUS-24-Dark-Pact-Approval-Rejection.md)
 * Metrics
   * [General Dashboard](/DOC/GEP-06-Mystical-Insights/GUS-20-Overseer-Dashboard.md)
 * Configuration
