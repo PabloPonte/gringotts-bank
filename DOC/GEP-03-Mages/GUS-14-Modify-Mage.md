@@ -75,6 +75,8 @@ In the navigation section this feature access must be on the following route:
 
 This feature must be only accesible for users with the Overseer Role.
 
+You can see a full navigation structure on the [Navigation Section](/DOC/navigation.md)
+
 ## Acceptance Criteria
 * As an authenticated Overseer user, I have access to this page from the navigation bar.
 * As an authenticated Overseer user, I have access to this page from the Mage List page with the mage info pre-queried.

@@ -76,6 +76,8 @@ In the navigation section this feature access must be on the following route:
 
 This feature must accesible for users with the Overseer Role or the Minion Role.
 
+You can see a full navigation structure on the [Navigation Section](/DOC/navigation.md)
+
 ## Acceptance Criteria
 * As an Overseer or Minion user, I have access to this page from the navigarion bar and from the Mage List page with the mage info pre-queried
 * As an Overseer user, I can see the edit icon and link to the Modify Mage page.

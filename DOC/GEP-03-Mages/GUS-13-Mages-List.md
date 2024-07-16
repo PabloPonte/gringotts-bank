@@ -55,6 +55,8 @@ In the navigation section this feature access must be on the following route:
 
 This feature must accesible for users with the Overseer Role or the Minion Role.
 
+You can see a full navigation structure on the [Navigation Section](/DOC/navigation.md)
+w
 ## Acceptance Criteria
 * Authenticated Overseer or Minion users have access to this page.
 * The page initially displays all mages without any applied filters.

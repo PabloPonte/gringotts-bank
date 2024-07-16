@@ -131,6 +131,8 @@ In the navigation section this feature access must be on the following route:
 
 This feature must be only accessible for users with the Overseer Role.
 
+You can see a full navigation structure on the [Navigation Section](/DOC/navigation.md)
+
 ## Acceptance Criteria
 * As an authenticated Overseer user, I have access to this page.
 * As an authenticated Minion user, I don't have access to this page.

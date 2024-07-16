@@ -79,6 +79,8 @@ In the navigation section this feature access must be on the following route:
 
 This feature must accessible for users with the Overseer Role or the Minion Role.
 
+You can see a full navigation structure on the [Navigation Section](/DOC/navigation.md)
+
 ## Acceptance Criteria
 * As an Overseer or Minion user, I have access to this page from the navigation bar.
 * As an Overseer or Minion user, I can select both the sender and the receiver mages to perform the operation.
