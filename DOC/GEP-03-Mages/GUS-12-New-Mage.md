@@ -37,7 +37,6 @@ The page section should follow this mockup:
 
 <figure align="center">
 <img src="../assets/NewMage.jpg" alt="New Mage Form" title="New Mage" width="800"> 
-<figcaption>New Mage Form</figcaption>
 </figure>
 
 The day picker should only be visible when selecting the birth date

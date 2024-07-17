@@ -64,7 +64,6 @@ The [mages data migration](../GEP-03-Mages/GUS-15-Mages-Migration.md) includes a
 The current balance must be visible on the mages list table following this mockup:
 <figure align="center">
 <img src="../assets/MagesListWithBalance.jpg" alt="Mages List with balance" title="Mages List with balance" width="800"> 
-<figcaption>Mages List with balance</figcaption>
 </figure>
 
 ## Dependencies

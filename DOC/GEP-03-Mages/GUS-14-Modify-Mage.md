@@ -21,7 +21,6 @@ The page section should follow this mockup:
 
 <figure align="center">
 <img src="../assets/ModifyMage.jpg" alt="Modify Mage Form" title="Modify Mage" width="800"> 
-<figcaption>Modify Mage Form</figcaption>
 </figure>
 
 This page is divided in two sections, the search form and the modify form.
@@ -40,7 +39,6 @@ The mage list page modification is expected to follow this mockup:
 
 <figure align="center">
 <img src="../assets/ModifyMageListEditDetail.jpg" alt="List Mage Detail" title="List Mage Detail" width="800"> 
-<figcaption>List Mage Detail</figcaption>
 </figure>
 
 Clicking on the modify icon must link to the Modify Mage page pre-queried with that record's mage.

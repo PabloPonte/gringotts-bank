@@ -21,7 +21,6 @@ The header should follow this mockup:
 
 <figure align="center">
 <img src="../assets/header.jpg" alt="Header" title="Header" width="800"> 
-<figcaption>Header Detail</figcaption>
 </figure>
 
 The logout icon must disconect the user and redirect to the login screen.
@@ -31,7 +30,6 @@ The navigation bar or menu must have all the links to the authorized pages for t
 
 <figure align="center">
 <img src="../assets/menu-sample.jpg" alt="Navigation Menu" title="Navigation Menu" > 
-<figcaption>Navigation Menu Example</figcaption>
 </figure>
 
 The navigation must be divided by sections with related features.
@@ -41,7 +39,6 @@ For the moment only "Home" option linking this same page.
 Must also contain the current location.
 <figure align="center">
 <img src="../assets/location-sample.jpg" alt="Location Example" title="Location Example" width="300"> 
-<figcaption>Location Example</figcaption>
 </figure>
 
 ### Content
@@ -52,7 +49,6 @@ The same defined on the login page
 
 <figure align="center">
 <img src="../assets/footer.jpg" alt="Login" title="Login Dialog" width="500"> 
-<figcaption>Footer Detail</figcaption>
 </figure>
 
 

@@ -40,7 +40,6 @@ The page section should follow this mockup:
 
 <figure align="center">
 <img src="../assets/MageList.jpg" alt="Mage List Page" title="Mage List Page" width="800"> 
-<figcaption>Mage List Page</figcaption>
 </figure>
 
 ## Dependencies

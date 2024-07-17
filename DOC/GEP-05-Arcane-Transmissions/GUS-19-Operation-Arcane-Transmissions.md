@@ -43,7 +43,6 @@ There is a general mockup of the page:
 
 <figure align="center">
 <img src="../assets/ArcaneTransmissions.jpg" alt="Arcane Transmissions" title="Arcane Transmissions" width="800"> 
-<figcaption>Arcane Transmissions</figcaption>
 </figure>
 
 This page is divided into 3 sections:

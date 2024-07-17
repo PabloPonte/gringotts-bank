@@ -14,7 +14,6 @@ A pie chart displaying the total balance for each house, representing the sum of
 
 <figure align="center">
 <img src="../assets/housesBalanceChart.png" alt="Houses Balance" title="Houses Balance" width="800"> 
-<figcaption>Houses Balance</figcaption>
 </figure>
 
 ### Houses Distribution
@@ -22,7 +21,6 @@ A pie chart displaying the total number of mages for each house.
 
 <figure align="center">
 <img src="../assets/housesDistributionChart.png" alt="Houses Distribution" title="Houses Distribution" width="800"> 
-<figcaption>Houses Distribution</figcaption>
 </figure>
 
 ### Transactions per Day
@@ -30,7 +28,6 @@ A histogram or line chart showing the evolution of the number of daily transacti
 
 <figure align="center">
 <img src="../assets/transactionsPerDayChart.png" alt="Transactions per Day" title="Transactions per Day" width="800"> 
-<figcaption>Transactions per Day</figcaption>
 </figure>
 
 ### Bank Earnings
@@ -38,7 +35,6 @@ A histogram or line chart showing the evolution of the daily amount of bank earn
 
 <figure align="center">
 <img src="../assets/bankEarningsChart.png" alt="Bank Earnings" title="Bank Earnings" width="800"> 
-<figcaption>Bank Earnings</figcaption>
 </figure>
 
 ### Top 5 Richest Mages
@@ -46,7 +42,6 @@ A table displaying the top 5 wealthiest mages and their current balances, ordere
 
 <figure align="center">
 <img src="../assets/top5RichestMagesChart.png" alt="Top 5 Richest Mages" title="Top 5 Richest Mages" width="800"> 
-<figcaption>Top 5 Richest Mages</figcaption>
 </figure>
 
 ### Transactions Statistics
@@ -62,7 +57,6 @@ A table displaying information about all transactions, including the following f
 
 <figure align="center">
 <img src="../assets/transactionsStatisticsChart.png" alt="Transactions Statistics" title="Transactions Statistics" width="800"> 
-<figcaption>Transactions Statistics</figcaption>
 </figure>
 
 ### Total Mages
@@ -70,7 +64,6 @@ A card indicating the total number of Mages
 
 <figure align="center">
 <img src="../assets/totalMagesChart.png" alt="Total Mages" title="Total Mages"> 
-<figcaption>Total Mages</figcaption>
 </figure>
 
 ### Total Active Mages
@@ -78,7 +71,6 @@ A card indicating the total number of Active Mages, meaning Mages that have had 
 
 <figure align="center">
 <img src="../assets/activeMagesChart.png" alt="Total Active Mages" title="Total Active Mages"> 
-<figcaption>Total Active Mages</figcaption>
 </figure>
 
 ### Total Transactions
@@ -86,7 +78,6 @@ A card indicating the total number of Transactions.
 
 <figure align="center">
 <img src="../assets/totalTransactionsChart.png" alt="Total Transactions" title="Total Transactions"> 
-<figcaption>Total Transactions</figcaption>
 </figure>
 
 
@@ -95,7 +86,6 @@ A card indicating the total number of latest Transactions, referring to transact
 
 <figure align="center">
 <img src="../assets/latestTransactionsChart.png" alt="Latest Transactions" title="Latest Transactions"> 
-<figcaption>Latest Transactions</figcaption>
 </figure>
 
 ### Total Bank Earnings
@@ -103,7 +93,6 @@ A card indicating the total amount earned by the bank.
 
 <figure align="center">
 <img src="../assets/totalBankEarningsChart.png" alt="Total Bank Earnings" title="Total Bank Earnings"> 
-<figcaption>Total Bank Earnings</figcaption>
 </figure>
 
 ## Page Design
@@ -112,7 +101,6 @@ The metrics do not need to be in any particular order or disposition, and no moc
 
 <figure align="center">
 <img src="../assets/overseerDashboardSample.png" alt="Dashboard Sample" title="Dashboard Sample"> 
-<figcaption>Dashboard Sample</figcaption>
 </figure>
 
 Take in consideration that all the values representing money must be displayed in the correct format.

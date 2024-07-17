@@ -19,7 +19,6 @@ The login section should follow this mockup:
 
 <figure align="center">
 <img src="../assets/login-dialog.jpg" alt="Login" title="Login Dialog" width="500"> 
-<figcaption>Login Screen Detail</figcaption>
 </figure>
 
 The footer should have the app logo and the following text:
@@ -32,8 +31,7 @@ Diagon Alley - London
 The footer section should follow this mockup:
 
 <figure align="center">
-<img src="../assets/footer.jpg" alt="Login" title="Footer Detail" width="500"> 
-<figcaption>Footer Detail</figcaption>
+<img src="../assets/footer.jpg" alt="Login" title="Footer Detail" width="500">
 </figure>
 
 On a successfull login the app you forward to the main page.

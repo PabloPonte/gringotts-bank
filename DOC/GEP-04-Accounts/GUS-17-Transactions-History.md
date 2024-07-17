@@ -16,7 +16,6 @@ There is a general mockup of the page:
 
 <figure align="center">
 <img src="../assets/MageDetail.jpg" alt="Mage Detail Screen" title="Mage Detail Screen" width="800"> 
-<figcaption>Mage Detail Screen</figcaption>
 </figure>
 
 This page is expected to behave similarly to how the modify mage currently works: it can start pre-queried or empty. If not pre-queried, only the find mage section must be visible. On a successful search, the rest of the sections must be displayed with the corresponding info with no filters applied; on an unsuccessful search, the rest of the sections must be hidden, displaying a clear message. If the page is pre-queried, it should behave the same way as if the correct AALN is searched.
@@ -60,7 +59,6 @@ The 'edit' icon in the result table must be changed to a 'view details' icon, li
 
 <figure align="center">
 <img src="../assets/MageListWithDetailIcon.jpg" alt="Mages List" title="Mages List" width="800"> 
-<figcaption>Mages List</figcaption>
 </figure>
 
 ## Dependencies

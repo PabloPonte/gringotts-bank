@@ -16,7 +16,6 @@ There is a general mockup of the page:
 
 <figure align="center">
 <img src="../assets/AccountOperationsMPLMRE.jpg" alt="Account Operations MPL MRE" title="Account Operations MPL MRE" width="800"> 
-<figcaption>Account Operations MPL MRE</figcaption>
 </figure>
 
 This page can start pre-queried or empty. If not pre-queried, only the find mage section must be visible. On a successful search, the rest of the sections must be displayed with the corresponding info; on an unsuccessful search, the rest of the sections must be hidden, displaying a clear message. If the page is pre-queried, it should behave the same way as if the correct AALN is searched.

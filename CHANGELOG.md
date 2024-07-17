@@ -10,6 +10,7 @@ _Dark Pacts_
 * Added the Dark Pacts Parameters Configuration User Story (new)
 * Added the Dark Pacts Request User Story (new)
 * Added the Dark Pacts Approval and Rejection User Story (new)
+* Added the Dark Pacts Instalment Payment User Story (new)
 
 ### Navigation 
 * Detalied navigation document added (new)

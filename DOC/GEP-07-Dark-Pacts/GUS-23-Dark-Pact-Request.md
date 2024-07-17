@@ -57,7 +57,6 @@ There is a general mockup of the page:
 
 <figure align="center">
 <img src="../assets/DarkPactsRequest.png" alt="Dark Pact Request" title="Dark Pact Request" width="800"> 
-<figcaption>Dark Pact Request</figcaption>
 </figure>
 
 ## Validations

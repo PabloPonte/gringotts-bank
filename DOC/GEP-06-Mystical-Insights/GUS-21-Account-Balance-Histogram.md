@@ -17,7 +17,6 @@ Here's a conceptual sample of what is expected:
 
 <figure align="center">
 <img src="../assets/accountBalanceChart.png" alt="Account Balance Histogram" title="Account Balance Histogram" width="800"> 
-<figcaption>Account Balance Histogram</figcaption>
 </figure>
 
 Take in consideration that all the money and dates values must be displayed in the correct format.

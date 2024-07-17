@@ -5,7 +5,6 @@ Gringotts is a fantasy themed banking web application.
 
 <figure align="center">
 <img src="assets/gringotts_logo.png" alt="Gringotts Logo" title="Gringotts Logo" width="300"> 
-<figcaption>Gringotts Logo</figcaption>
 </figure>
 
 The core of the system is the management of Mages (clients), Accounts and some Operations that can be done: 
@@ -18,13 +17,11 @@ There are two kinds of users:
 * **Overseers** (managers): users that can configure the application parameters and operate the application without limits
 <figure align="center">
 <img src="assets/overseer_profile_pic.png" alt="Overseer" title="Overseer Profile Picture" width="100"> 
-<figcaption>Overseer Profile Picture</figcaption>
 </figure>
 
 * **Minions** (operators): users that interact with clients and use the application with some limitations
 <figure align="center">
 <img src="assets/minion_profile_pic.png" alt="Minion" title="Minion Profile Picture" width="100"> 
-<figcaption>Minion Profile Picture</figcaption>
 </figure>
 
 Gringots uses its own currency consisted of three different coins (in order of increasing value):
@@ -49,7 +46,6 @@ Where "$" is the currency symbol, there is no space between the symbol and the n
 The following color palette must be used on all the application common components
 <figure align="center">
 <img src="assets/color_palette.png" alt="Palette" title="Color Palette" > 
-<figcaption>Color Palette</figcaption>
 </figure>
 
 ---

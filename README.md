@@ -66,3 +66,4 @@ The proyect was used for the first time on a coding bootcamp, with a team of tra
     * [GUS-22 Dark Pacts Parameters Configuration](/DOC/GEP-07-Dark-Pacts/GUS-22-Dark-Pact-Parameters.md)
     * [GUS-23 Dark Pacts Request](/DOC/GEP-07-Dark-Pacts/GUS-23-Dark-Pact-Request.md)
     * [GUS-24 Dark Pacts Approvals and Rejections](/DOC/GEP-07-Dark-Pacts/GUS-24-Dark-Pact-Approval-Rejection.md)
+    * [GUS-25 Dark Pacts Instalments Payment](/DOC/GEP-07-Dark-Pacts/GUS-25-Dark-Pact-Instalment-Payment.md)

@@ -22,7 +22,6 @@ Showing the Loans that need to be approved or rejected, with the following mocku
 
 <figure align="center">
 <img src="../assets/darkPactsPendingList.png" alt="Dark Pacts Pending List" title="Dark Pacts Pending List" width="800"> 
-<figcaption>Dark Pacts Pending List</figcaption>
 </figure>
 
 This table must be ordered by the Requested Date showing the oldest request first. Must display up to 10 pending loans per page.
@@ -35,12 +34,11 @@ Showing all the non pending loans, with optional filters on state and loan type,
 
 <figure align="center">
 <img src="../assets/darkPactsList.png" alt="Dark Pacts List" title="Dark Pacts List" width="800"> 
-<figcaption>Dark Pacts List</figcaption>
 </figure>
 
 The results must be ordered by loan number from oldest to newest, and show up to 10 loans per page.
 
-The Total Amount column refers to the total amount of the loan, is the sum of all instalment amounts. The Due Amount and Instalments, refers to the instalments with a due date before the actual date that are not paid yet. The Pending Amount and Payments refers to the unpaid instalments.
+The Total Amount column refers to the total amount of the loan, is the sum of all instalment amounts. The Due Amount and Instalments, refers to the instalments with a due date before the actual date that are not paid yet. Due calculations are ignored on rejected loans. The Pending Amount and Payments refers to the unpaid instalments.
 
 ## Dependencies
 

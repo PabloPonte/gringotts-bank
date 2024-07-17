@@ -15,7 +15,6 @@ The page must have the Gringotts Bank logo centered and the following message be
 
 <figure align="center">
 <img src="../assets/gringotts_logo.png" alt="Gringotts Logo" title="Gringotts Logo" width="300"> 
-<figcaption>Gringotts Logo</figcaption>
 </figure>
 
 ```
