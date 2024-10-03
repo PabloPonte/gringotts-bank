@@ -6,7 +6,7 @@ As an Overseer or Minion user, I need a page to perform an Instalment Payment fo
 
 ## Details
 
-In order to make an Instalment Payment, a Dark Pact Detail Page must be created. This page can start pre-queried or you can find a specific loan by the loan number (in a similar way as the Mage Detail page works).
+In order to make an Instalment Payment, a Dark Pact Detail Page must be created. This page can start pre-queried or a specific loan can be found by the loan number (in a similar way as the Mage Detail page works).
 
 Pending loans can't be queried on this page. If the Loan number doesn't exist in a valid state, the page must display a proper message.
 
@@ -95,6 +95,11 @@ This information must be ordered by Request Date from newest to oldest. If a Dar
 -- ## dark pack details mockcup
 
 -- ## mage detail section mockup
+
+```
+The Mage Detail page is now quite big, adding another section can be overwhelming, consider using a different visual component to simplify the visualization. For example, you can use a tab view and put the loans and transaction history in different tabs, instead of just adding the loans list above all.
+
+```
 
 
 <figure align="center">
