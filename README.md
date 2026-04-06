@@ -8,14 +8,10 @@ You should start reading the [Project Brief](DOC/brief.md), that contains a simp
 
 The project has a guideline in form of [Epics](DOC/epics.md) and [Releases](DOC/releases.md) that you must respect and complete in certain order (mostly due dependencies).
 
-```
-Suggestions:
-============ 
-    
-This is a suggestion box, at some points in this project, you will need to make a choice or decision. 
-On some of those cases, the proyect will make a suggestion, giving some options and recomendations on boxes like this one.
+> [!TIP]
+> This is a tip or suggestion box, at some points in this project, you will need to make a choice or decision. 
+> On some of those cases, the proyect will make a suggestion, giving some options and recomendations on boxes like this one. You can find other boxes types like notes, caution, etc
 
-```
 
 ## How to start?
 As stated before, it is recommended to start by reading the [Project Brief](DOC/brief.md), then the [Epics List](DOC/epics.md), and [Release Plan](DOC/releases.md) to have a general understanding of the scope of the project.
